@@ -1,0 +1,153 @@
+body {
+  padding-left: 0px;
+  background-image: url(../images/wild_flowers.png);
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333;
+  font-size: 12px;
+  line-height: 20px;
+}
+h1 {
+  margin: 24px 0px 19px;
+  font-family: Lato, sans-serif;
+  color: #b31919;
+  font-size: 46px;
+  line-height: 44px;
+  font-weight: 200;
+  text-align: left;
+}
+h2 {
+  margin: 71px 0px 10px;
+  font-family: Lato, sans-serif;
+  color: #7d2d2d;
+  font-size: 49px;
+  line-height: 36px;
+  font-weight: 300;
+  text-align: center;
+}
+h3 {
+  margin: 10px 0px;
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 700;
+}
+h4 {
+  margin: 10px 1px 10px 0px;
+  padding-right: 13px;
+  padding-left: 14px;
+  float: right;
+  border-right: 0px solid #79baa8;
+  border-left: 0px solid #6daba9;
+  box-shadow: none;
+  color: #8f3939;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+h5 {
+  margin: 10px 0px;
+  font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #992525;
+  font-size: 23px;
+  line-height: 20px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+h6 {
+  margin: 10px 0px 22px;
+  float: right;
+  border-bottom: 0px solid #6b4141;
+  font-family: Exo, sans-serif;
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 400;
+}
+p {
+  height: 30px;
+  margin: 1px 136px 5px 138px;
+  padding-top: 8px;
+  padding-right: 40px;
+  padding-left: 40px;
+  font-family: Bitter, serif;
+  color: #66b3ac;
+  font-size: 14px;
+  text-align: center;
+}
+.button {
+  display: inline-block;
+  padding: 4px 15px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+.head {
+  height: 50px;
+  margin-top: 16px;
+  background-image: none;
+}
+.nav {
+  margin-left: 11px;
+  float: right;
+  border: 1px none black;
+  box-shadow: white 0px 0px 6px 0px;
+  opacity: 1;
+  direction: ltr;
+  font-family: Lato, sans-serif;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+.window {
+  margin-top: 107px;
+}
+.window-side {
+  margin-top: 17px;
+  margin-bottom: 3px;
+  border-style: solid;
+  border-width: 0px 0px 1px;
+  border-bottom-color: #86b1b5;
+}
+.window-side2 {
+  border-top: 1px solid #84bdc2;
+}
+.wcindow {
+  margin-top: 40px;
+  border-left: 1px solid #70b4ba;
+}
+.pics {
+  margin-top: 43px;
+  border-top: 1px solid #77b8ad;
+}
+.pic {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 49px;
+}
+.picrow {
+  margin-top: 34px;
+}
+.bottontextblock {
+  margin-bottom: 310px;
+}
+.bo {
+  border-bottom: 1px solid black;
+}
+.footer {
+  margin-top: 22px;
+  background-color: #c2bcbc;
+}
+@media (max-width: 991px) {
+  body {
+    background-image: url(../images/wild_flowers.png);
+  }
+}
+@media (max-width: 767px) {
+  body {
+    background-image: url(../images/wild_flowers.png);
+  }
+}
+@media (max-width: 479px) {
+  body {
+    background-image: url(../images/wild_flowers.png);
+  }
+}
